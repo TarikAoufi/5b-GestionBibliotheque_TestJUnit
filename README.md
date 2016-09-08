@@ -6,6 +6,5 @@ Réalisation des tests unitaires pour :
      - Les classes: Document et Auteur
      - La couche DAO
      
-    
 Dans ce projet, il faut utiliser le JAR suivant:
      - jboss-client.jar
