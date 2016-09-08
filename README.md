@@ -1,5 +1,5 @@
 # 5b-GestionBibliotheque_TestJUnit
-EJB 3 + Hibernate 3 + JBoss AS 7.1 + Oracle 11g
+EJB 3 + Hibernate 3 + JUnit + JBoss AS 7.1 + Oracle 11g
 
 Réalisation des tests unitaires pour : 
     - Les classes: Document et Auteur
